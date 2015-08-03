@@ -137,7 +137,7 @@ public class Vungle extends CordovaPlugin {
 	public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
 
 		if (action.equals("setLicenseKey")) {
-			setLicenseKey(action, args, callbackContext);
+			//setLicenseKey(action, args, callbackContext);
 
 			return true;
 		}	
