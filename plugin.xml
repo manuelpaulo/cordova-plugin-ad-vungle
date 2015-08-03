@@ -11,7 +11,7 @@
     <repo>https://github.com/cranberrygame/cordova-plugin-ad-vungle</repo>
     <issue>https://github.com/cranberrygame/cordova-plugin-ad-vungle/issues</issue> 	
 	<engines>
-	    <engine name="cordova" version=">=3.0.0" />
+	    <engine name="cordova" version=">=5.1.1" />
 	</engines>
 	 
     <js-module src="www/vungle.js">
